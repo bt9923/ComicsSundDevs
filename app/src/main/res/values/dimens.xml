@@ -1,0 +1,10 @@
+<resources>
+    <dimen name="app_bar_height">180dp</dimen>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="text_margin">16dp</dimen>
+    <dimen name="titleDetailSize">22sp</dimen>
+    <dimen name="marginText">4dp</dimen>
+    <dimen name="dimen_8dp">8dp</dimen>
+    <dimen name="textSubtitleSize">18sp</dimen>
+    <dimen name="textComics">15sp</dimen>
+</resources>
